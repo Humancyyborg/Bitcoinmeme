@@ -484,7 +484,7 @@ document.getElementById('caCopyIcon').addEventListener('click', function() {
 
 // Buy Button
 document.getElementById('buyBtn').addEventListener('click', function() {
-	window.open('https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0xe4eFDd2eb216A4620cfA55c5cC67Bd09DC64Ff24&use=V2', '_blank');
+	window.open('https://x.com/bitcoinmemeland?s=21', '_blank');
 });
 
 // Social Buttons
@@ -497,16 +497,16 @@ const dextools = document.getElementById('dextools');
 const dexscreener = document.getElementById('dexscreener');
 const trademarkTwitter = document.getElementById('trademarkTwitter');
 twitterBtn.addEventListener('click', function () {
-    window.open('https://twitter.com/BitcoinSVupside', '_blank');
+    window.open('https://x.com/bitcoinmemeland?s=21', '_blank');
 });
 satoshiBtn.addEventListener('click', function () {
     window.open('https://etherscan.io/address/0x7a9d3ec77ef2f32016bb6a4c60479cc89c6a04d3', '_blank');
 });
 telegramBtn1.addEventListener('click', function () {
-    window.open('https://t.me/BitcoinUpsideCommunity', '_blank');
+    window.open('https://t.me/bitcoinmeme_land', '_blank');
 });
 telegramBtn2.addEventListener('click', function () {
-    window.open('https://t.me/BitcoinUpsideCommunityCN', '_blank');
+    window.open('https://pump.fun/', '_blank');
 });
 telegramBtn3.addEventListener('click', function () {
     window.open('https://t.me/BitcoinUpside', '_blank');
